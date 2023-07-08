@@ -2,6 +2,7 @@
 
 // main() runs in its own thread in the OS
 int main()
+digital DigitalOut
 {
     while (true) {
 
